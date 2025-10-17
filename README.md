@@ -10,7 +10,8 @@
 - Java
 - Python
 - C#
-- https://img.shields.io/badge/PYTHON-8A2BE2
+- ![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 
 **Desarrollo web:**
 - HTML
