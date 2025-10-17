@@ -1,16 +1,38 @@
-## Hi there 👋
+# Bienvenidos a mi perfil GitHub!
 
-<!--
-**Maloserastu/Maloserastu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudios
+- **DAM** (_Desarrollo de Aplicaciones Multiplataforma_), cursado en IES San Clemente, Galicia, Lugo.
 
-Here are some ideas to get you started:
+## Tecnologías
+### ¿Qué lenguajes uso, he usado y conozco?
+**Lenguajes de programación:**
+- Java
+- Python
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desarrollo web:**
+- HTML
+- CSS
+
+**Tengo conocimientos en…**
+- XML
+- DTD
+
+**Bases de datos:**
+- SQLite
+- MySQL
+- PostgreSQL
+
+**IDEs (Entorno de desarrollo):**
+- Eclipse
+- Visual Studio Code
+- NetBeans
+
+## Proyectos
+- ¿Qué proyectos tengo hechos hasta ahora?
+  - **Remember it!?**
+    - Proyecto final de mis estudios de DAM (Desarrollo de Aplicaciones Multiplataforma)
+
+## Contacto
+- ¿Por dónde contactarme?
+  - `seivanerozasnoel@gmail.com`
