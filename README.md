@@ -1,10 +1,11 @@
-# Bienvenidos a mi perfil GitHub!
+# Bienvenidos a mi perfil GitHub!👋
 
-## Estudios
+## Estudios🧑‍🎓
 - **DAM** (_Desarrollo de Aplicaciones Multiplataforma_), cursado en IES San Clemente, Galicia, Lugo.
 
-## Tecnologías
+## Tecnologías🧾
 ### ¿Qué lenguajes uso, he usado y conozco?
+
 **Lenguajes de programación:**
 - Java
 - Python
@@ -28,11 +29,11 @@
 - Visual Studio Code
 - NetBeans
 
-## Proyectos
+## Proyectos⚙️
 - ¿Qué proyectos tengo hechos hasta ahora?
   - **Remember it!?**
     - Proyecto final de mis estudios de DAM (Desarrollo de Aplicaciones Multiplataforma)
 
-## Contacto
+## Contacto📨
 - ¿Por dónde contactarme?
   - `seivanerozasnoel@gmail.com`
