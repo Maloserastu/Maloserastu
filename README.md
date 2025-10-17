@@ -7,11 +7,10 @@
 ### ¿Qué lenguajes uso, he usado y conozco?
 
 **Lenguajes de programación:**
-- Java
-- Python
-- C#
-- ![Static Badge](https://img.shields.io/badge/:badgeContent)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javaor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C#](https://img.shields.io/badge/C#-ED8B00?style=for-the-badge&logo=javaor=white)
+  C#
 
 
 
